@@ -1,0 +1,11 @@
+--2025-10-18 17:51:20--  https://huggingface.co/api/resolve-cache/models/gbahlnxp/yolov4tiny/31dc7a3aff2f42868c38c46cb48ada327194c56c/coco-labels-2014_2017.txt?download=true
+Resolvendo huggingface.co (huggingface.co)... 2600:9000:28ee:ea00:17:b174:6d00:93a1, 2600:9000:28ee:c00:17:b174:6d00:93a1, 2600:9000:28ee:8e00:17:b174:6d00:93a1, ...
+Conectando-se a huggingface.co (huggingface.co)|2600:9000:28ee:ea00:17:b174:6d00:93a1|:443... conectado.
+A requisição HTTP foi enviada, aguardando resposta... 200 OK
+Tamanho: 620 [text/plain]
+Salvando em: "coco-labels-2014_2017.txt?download=true"
+
+           coco-label   0%[                          ]       0  --.-KB/s               coco-labels-2014_2017 100%[=========================>]     620  --.-KB/s    em 0s      
+
+2025-10-18 17:51:21 (10,7 MB/s) - "coco-labels-2014_2017.txt?download=true" salvo [620/620]
+
